@@ -32,6 +32,6 @@ For easier just use online compiler (Link: https://www.programiz.com/javascript/
 
 ### 2) Check the answer manually one by one based on answer file provided
 - Answer provided in MCQ.text
-- code structure provided for sum two inside question.js (can copy and run seperately in anu compiler)
+- code structure provided for sum two inside 'question3.js' (can copy and run seperately in any compiler)
 - calculator.tsx contain component structure and logic for calculator
 - navbar.tsx contain navbar structure and handling view for desktop and mobile
