@@ -17,17 +17,17 @@ Run 'npm start' and open [http://localhost:3000](http://localhost:3000) to view 
 I have created a main page with 4 options to view the answer of the assesment.
 
 MCQ Answer:
-Will display list of answer from question 1 until question 12.
+- Will display list of answer from question 1 until question 12.
 
 Add Two Numbers:
-Display a calculator where user can test out sum of two numbers.
+- Display a calculator where user can test out sum of two numbers.
 
 Navbar View:
-Display 2 types of navbar (desktop and mobile view provided)
+- Display 2 types of navbar (desktop and mobile view provided)
 For mobile navbar user need to inspect element and resize the screen to mobile view.
 
 Two Sum II - Input Array Is Sorted:
-Display the code structure. Can test out the code by copy and run it in any javascript compiler.
+- Display the code structure. Can test out the code by copy and run it in any javascript compiler.
 For easier just use online compiler (Link: https://www.programiz.com/javascript/online-compiler/)
 
 ### 2) Check the answer manually one by one based on answer file provided
