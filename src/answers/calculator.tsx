@@ -2,6 +2,7 @@ import { useState } from 'react'
 import { Button, Card, Container, Form } from 'react-bootstrap'
 import { useForm } from 'react-hook-form'
 import styled from 'styled-components'
+import { devices } from '../constant/device'
 
 interface calculatorForm {
   firstNumber: number
@@ -22,8 +23,8 @@ export const CalculatorComponent = () => {
   }
 
   return (
-    <section style={{ height: '100%', marginTop: '20px' }}>
-      <Container style={{ height: '100%', alignContent: 'center' }}>
+    <CalculatorSection>
+      <CalculatorContainer>
         <Card>
           <Card.Body>
             <Card.Title>Adding Two Numbers</Card.Title>
@@ -71,11 +72,30 @@ export const CalculatorComponent = () => {
             </Form>
           </Card.Body>
         </Card>
-      </Container>
-    </section>
+      </CalculatorContainer>
+    </CalculatorSection>
   )
 }
 
 const FormContainer = styled.div`
   padding: 15px 10px;
+`
+
+const CalculatorContainer = styled.div`
+  height: 100%;
+  padding: 0px 10px;
+
+  @media only screen and ${devices.xs} {
+    width: 100%;
+  }
+
+  @media only screen and ${devices.md} {
+    width: 50%;
+  }
+`
+
+const CalculatorSection = styled.section`
+  text-align: -webkit-center;
+  height: 100%;
+  margin-top: 20px;
 `
