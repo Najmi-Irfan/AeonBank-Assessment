@@ -1,5 +1,5 @@
 ### Project Folder Overview
-This project contain an 'answer' folder where the file for assessment being placed:
+This project contain an 'answer' folder where all the asnwer file for assessment being placed which are:
 - calculator.tsx
 - MCQ.txt
 - navbar.tsx
@@ -9,7 +9,6 @@ This project contain an 'answer' folder where the file for assessment being plac
 After finish clone the repository, required to run command 'npm install' to download needed package.
 
 ### Testing the code
-
 There are some option to evaluate the assessment:
 
 ### 1) Directly on the user interface:
@@ -29,6 +28,8 @@ For mobile navbar user need to inspect element and resize the screen to mobile v
 Two Sum II - Input Array Is Sorted:
 - Display the code structure. Can test out the code by copy and run it in any javascript compiler.
 For easier just use online compiler (Link: https://www.programiz.com/javascript/online-compiler/)
+
+### Info: to go back to main page, user can click the back button provided on bottom left or just refresh the page.
 
 ### 2) Check the answer manually one by one based on answer file provided
 - Answer provided in MCQ.text
