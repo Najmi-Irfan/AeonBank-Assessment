@@ -1,5 +1,5 @@
 ### Project Folder Overview
-This project contain an 'answer' folder where all the asnwer file for assessment being placed which are:
+This project contain an 'answer' folder under src/answer where all the asnwer file for assessment being placed which are:
 - calculator.tsx
 - MCQ.txt
 - navbar.tsx
