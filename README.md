@@ -1,5 +1,5 @@
 ### Project Folder Overview
-This project contain an 'answer' folder where the file for assessment being placed:
+This project contain an 'answer' folder where all the asnwer file for assessment being placed which are:
 - calculator.tsx
 - MCQ.txt
 - navbar.tsx
@@ -9,7 +9,6 @@ This project contain an 'answer' folder where the file for assessment being plac
 After finish clone the repository, required to run command 'npm install' to download needed package.
 
 ### Testing the code
-
 There are some option to evaluate the assessment:
 
 ### 1) Directly on the user interface:
