@@ -34,11 +34,11 @@ function App () {
             </>
           ))}
         </div>
-        <footer>
+        {/* <footer>
           {display !== -1 && (
             <BackButton onClick={() => setDisplay(-1)}>Go Back</BackButton>
           )}
-        </footer>
+        </footer> */}
       </div>
     </ThemeProvider>
   )
