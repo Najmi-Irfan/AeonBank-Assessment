@@ -29,7 +29,7 @@ Two Sum II - Input Array Is Sorted:
 - Display the code structure. Can test out the code by copy and run it in any javascript compiler.
 For easier just use online compiler (Link: https://www.programiz.com/javascript/online-compiler/)
 
-* To go back to main page, user can click the back button provided on bottom left or just refresh the page.
+### Info: to go back to main page, user can click the back button provided on bottom left or just refresh the page.
 
 ### 2) Check the answer manually one by one based on answer file provided
 - Answer provided in MCQ.text
